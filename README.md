@@ -26,6 +26,6 @@ I maintain a live, private mail server and webmail client to demonstrate my comp
 ---
 
 ### 📫 Connect with me:
-* **Email:** alex@pyapp.com
+* **Email:** alex@pyayy.com
 
 *"Code is only as good as the server it runs on."*
