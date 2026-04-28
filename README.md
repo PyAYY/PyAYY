@@ -26,8 +26,6 @@ I maintain a live, private mail server and webmail client to demonstrate my comp
 ---
 
 ### 📫 Connect with me:
-* **Upwork:** [Link to your Profile]
-* **Portfolio:** [Link to your live site or pyayy.com]
-* **LinkedIn:** [Link]
+* **Email:** alex@pyapp.com
 
 *"Code is only as good as the server it runs on."*
