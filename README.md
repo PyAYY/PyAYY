@@ -12,13 +12,6 @@ I specialize in building **production-ready automation** and **secure backend in
 
 ---
 
-### 🌟 Featured Infrastructure
-I maintain a live, private mail server and webmail client to demonstrate my competence in network security and containerization:
-* **Live Demo:** [https://mail.pyayy.com](https://mail.pyayy.com)
-* **Stack:** Docker-Mailserver, Roundcube, Nginx Proxy Manager, Let's Encrypt SSL.
-
----
-
 ### 📊 Professional Projects
 * **[Dynamic Data Extraction Engine]:** A decoupled Python/Selenium scraper that adapts to UI changes via JSON configurations.
 * **[Private Mail Infrastructure]:** A fully containerized SMTP/IMAP server with secure webmail access.
